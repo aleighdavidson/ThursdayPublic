@@ -1,3 +1,5 @@
 This is a new file to test the remote repository.
 
-Faye adding 1st comment to Alex's file.
+Faye adding 1st comment to Alex's file
+
+And Alex is now adding another line..
