@@ -5,3 +5,5 @@ Faye adding 1st comment to Alex's file
 And Alex is now adding another line..
 
 FAYE ADDING A SECOND COMMENT TO PUSH
+
+git diff test
